@@ -3,7 +3,6 @@
         padding-left: 10%;
         padding-right: 10%;
         margin: 5%;
-        font-family: Montserrat, sans-serif;
     }
     
     header>img {
@@ -22,14 +21,18 @@
         padding-top: 5%;
     }
     
-    #intro>h1 {
+    #intro>#textintro {
+        font-size: 30px;
         text-align: center;
         color: white;
+        font-family: 'Open Sans', sans-serif;
     }
     
     #intro>p {
-        font-size: 22px;
+        text-align: center;
+        font-size: 20px;
         color: white;
+        font-family: 'Montserrat', sans-serif;
     }
     
     #informacoes {
@@ -39,22 +42,30 @@
     #informacoes>h1 {
         text-align: center;
         color: white;
+        font-family: 'Merienda One', cursive;
     }
     
     #informacoes>p {
         text-align: center;
         color: white;
-        font-size: 21px;
+        font-size: 19px;
+        font-family: 'Montserrat', sans-serif;
     }
     
     #projetos {
         padding: 3%;
     }
     
-    #projetos>h2,
-    p {
+    #projetos>h2 {
         text-align: center;
         color: white;
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    #projetos>p {
+        text-align: center;
+        color: white;
+        font-family: 'Montserrat', sans-serif;
     }
     
     #redessociais {
@@ -65,15 +76,17 @@
     #redessociais>h2 {
         text-align: center;
         color: white;
+        font-family: 'Open Sans', sans-serif;
     }
     
     #redessociais>p {
         text-align: center;
-        font-size: 21px;
+        font-size: 17px;
+        color: white;
+        font-family: 'Montserrat', sans-serif;
     }
     
     footer {
-        margin: 1%;
         width: 100%;
         background-color: white;
     }
@@ -83,4 +96,5 @@
         color: black;
         font-weight: bold;
         font-size: 15px;
+        font-family: 'Montserrat', sans-serif;
     }
