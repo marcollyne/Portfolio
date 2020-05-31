@@ -1,0 +1,86 @@
+    body {
+        background-color: black;
+        padding-left: 10%;
+        padding-right: 10%;
+        margin: 5%;
+        font-family: Montserrat, sans-serif;
+    }
+    
+    header>img {
+        height: 100%;
+        width: 100%;
+    }
+    
+    a>img {
+        padding-right: 3%;
+        border-radius: 50%;
+        height: 70px;
+        width: 70px;
+    }
+    
+    #intro {
+        padding-top: 5%;
+    }
+    
+    #intro>h1 {
+        text-align: center;
+        color: white;
+    }
+    
+    #intro>p {
+        font-size: 22px;
+        color: white;
+    }
+    
+    #informacoes {
+        padding: 3%;
+    }
+    
+    #informacoes>h1 {
+        text-align: center;
+        color: white;
+    }
+    
+    #informacoes>p {
+        text-align: center;
+        color: white;
+        font-size: 21px;
+    }
+    
+    #projetos {
+        padding: 3%;
+    }
+    
+    #projetos>h2,
+    p {
+        text-align: center;
+        color: white;
+    }
+    
+    #redessociais {
+        padding: 3%;
+        text-align: center;
+    }
+    
+    #redessociais>h2 {
+        text-align: center;
+        color: white;
+    }
+    
+    #redessociais>p {
+        text-align: center;
+        font-size: 21px;
+    }
+    
+    footer {
+        margin: 1%;
+        width: 100%;
+        background-color: white;
+    }
+    
+    footer>p {
+        text-align: center;
+        color: black;
+        font-weight: bold;
+        font-size: 15px;
+    }
